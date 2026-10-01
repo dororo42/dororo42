@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" width="400" height="160" role="img" aria-label="agent-handoff-delivery">
+  <rect width="400" height="160" rx="10" fill="#111A2C" stroke="#1F2D47"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans SC', sans-serif">
+    <text x="24" y="44" fill="#E6EDF7" font-size="21" font-weight="600">agent-handoff-delivery</text>
+    <text x="24" y="82" fill="#A9BACF" font-size="15">跨隔离 AI Agent 项目交接套件</text>
+    <text x="24" y="106" fill="#7C8FA8" font-size="14">仓库自带上下文 · 零歧义接手</text>
+    <circle cx="31" cy="134" r="6" fill="#3572A5"/>
+    <text x="45" y="139" fill="#8B9CB6" font-size="14">Python</text>
+    <text x="376" y="44" fill="#30405C" font-size="18" text-anchor="end">&#8599;</text>
+  </g>
+</svg>
