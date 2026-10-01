@@ -61,6 +61,5 @@
 
     <text x="72" y="312" fill="#6B5F4A" font-size="15">Kindle 4 / KOReader 插件 · Blender 插件 · Notepad++ 渲染内核</text>
     <text x="72" y="338" fill="#7A6C52" font-size="14">Embedded device tooling, renderer kernels and editor plugins · Rust / Lua / Python / C#</text>
-    <text x="72" y="336" fill="#8B8069" font-size="14">Device tooling, renderer kernels and editor plugins — Rust / Lua / Python / C#</text>
   </g>
 </svg>
