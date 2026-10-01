@@ -2,11 +2,6 @@
 
 <br>
 
-<p>
-  做设备、渲染器和工具链的人。主线是给老旧硬件和不完美的宿主写可持续维护的扩展：<br>
-  Kindle 4 / KOReader 插件、Blender 插件、Notepad++ 渲染内核，以及 Rust 写的设备侧工具。
-</p>
-
 ### Kindle 4 / KOReader
 
 <table>
