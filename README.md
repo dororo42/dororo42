@@ -1,5 +1,6 @@
 <img src="assets/banner.svg" width="100%" alt="Do_rO"/>
 <br>
+
 ### Kindle 4 / KOReader
 
 <table>
