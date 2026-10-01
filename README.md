@@ -1,7 +1,5 @@
 <img src="assets/banner.svg" width="100%" alt="Do_rO"/>
-
 <br>
-
 ### Kindle 4 / KOReader
 
 <table>
@@ -78,8 +76,6 @@
 | [reverse-skill](https://github.com/dororo42/reverse-skill) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 逆向 / 授权渗透技能路由包 |
 
 其余在做的：[EZVenera4KO](https://github.com/dororo42/EZVenera4KO) ·
-[chanlun-tdx](https://github.com/dororo42/chanlun-tdx) ·
-[weread.koplugin](https://github.com/dororo42/weread.koplugin) ·
 [birding](https://github.com/dororo42/birding)
 
 <br>
