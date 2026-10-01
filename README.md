@@ -58,14 +58,14 @@
 ### 技术栈
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=181818" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/KOReader-000000?style=flat-square&logo=readme&logoColor=white" alt="KOReader"/>
-  <img src="https://img.shields.io/badge/Flutter-027DF7?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-57606a?style=flat-square&logo=rust&logoColor=ffffff" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Lua-57606a?style=flat-square&logo=lua&logoColor=ffffff" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-57606a?style=flat-square&logo=python&logoColor=ffffff" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-57606a?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#"/>
+  <img src="https://img.shields.io/badge/Blender-57606a?style=flat-square&logo=blender&logoColor=ffffff" alt="Blender"/>
+  <img src="https://img.shields.io/badge/KOReader-57606a?style=flat-square&logo=readme&logoColor=ffffff" alt="KOReader"/>
+  <img src="https://img.shields.io/badge/Flutter-57606a?style=flat-square&logo=flutter&logoColor=ffffff" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-57606a?style=flat-square&logo=cpp&logoColor=ffffff" alt="C++"/>
 </p>
 
 ### 衍生分支
